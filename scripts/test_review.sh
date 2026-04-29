@@ -1,2 +1,2 @@
 # test change
-dsfsdfsdf
+set -euo pipefail
